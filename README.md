@@ -61,7 +61,13 @@
             border-radius:10px;
             box-shadow:0 2px 8px rgba(0,0,0,0.1);
         }
-
+.certication, .certication, .projects, .contact{
+            background:white;
+            margin-bottom:20px;
+            padding:30px;
+            border-radius:10px;
+            box-shadow:0 2px 8px rgba(0,0,0,0.1);
+        }
         h2{
             margin-bottom:20px;
             color:#0f172a;
