@@ -109,7 +109,7 @@
 
     <header>
         <h1>Harry Ngeno</h1>
-        <p>Software Engineering Student | Full Stack Developer | Cyber Security Enthusiast</p>
+        <p>Software Engineer | Full Stack Developer | Cyber Security Enthusiast</p>
     </header>
 
     <nav>
@@ -147,6 +147,7 @@
                 <li>Full Stack Development</li>
                 <li>Cyber Security Basics</li>
                 <li>Responsive Web Design</li>
+                <li>PHP Basics
             </ul>
         </div>
     </section>
