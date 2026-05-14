@@ -196,6 +196,26 @@
             </a>
         </div>
     </section>
+    <section id="Certification">
+    <div class="Certification">
+        <h2>Certification</h2>
+
+        <ul>
+            <li>IOT Fundamentals: Big Data & Analytics</li>
+            <li>Introduction to cyber security</li>
+            <li>Enterprise Networking, Security, and Automation</li>
+            <li>Cyber Ops Associate</li>
+            <li>Network Security</li>
+            <li>Cybersecurity Essential s</li>
+            <li>DevNet Associate</li>
+            <li>Switching, Routing,and Wireless Essentials</li>
+            <li>Introduction to Networks s</li>
+            <li>DevNet Associate</li>
+            
+            
+        </ul>
+    </div>
+</section>
 
     <footer>
         <p>© 2026 Harry Ngeno Portfolio. All Rights Reserved.</p>
