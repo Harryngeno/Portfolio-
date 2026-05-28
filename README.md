@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +14,7 @@
         }
 
         body{
-            background:blu;
+            background: blue;
             color:#333;
         }
 
@@ -134,43 +133,63 @@
                 web development, mobile app development,
                 and cyber security.
                 I enjoy creating modern websites and learning
-                new technologies to improve my skills.</p>
+                new technologies to improve my skills.
                 
-                            <p>I have  knowledge of Artificial Intelligence (AI),
+                </p>
+                
+                            <p>
+                            I have  knowledge of Artificial Intelligence (AI),
                             including understanding of AI concepts, machine learning fundamentals,
                             and AI-powered tools. 
                             I am interested in learning and developing intelligent
-                            software solutions.</p>
+                            software solutions.
+                            </p>
                             
-            p>I also have knowledge in Systems Analysis and Design, 
+           <p>
+           
+           I also have knowledge in Systems Analysis and Design, 
             including understanding of software development life cycle (SDLC),
             requirements gathering, system modeling,
             and designing efficient solutions to meet user and business needs. 
             Interested in analyzing problems and designing structured, scalable, 
-            and user-focused systems.</p>
+            and user-focused systems.
             
-            <p> knowledgeble in Computer
+            </p>
+            
+            <p> 
+            
+            knowledgeble in Computer
             Networking and Network Security,
             including understanding of
             network fundamentals, IP addressing,
             routing, switching, and key network protocols. 
             Also familiar with  security concepts such as firewalls,
             encryption, authentication, and protecting systems from unauthorized access. 
-            Interested in building and securing reliable, efficient network systems.</p>
+            Interested in building and securing reliable, efficient network systems.
             
-            <p>Basic knowledge of programming with the .NET Framework,
+            </p>
+            
+            <p>
+            
+            Basic knowledge of programming with the .NET Framework,
             including understanding of how to develop 
             software applications using Microsoft’s development platform.
             Familiar with using languages such as C# to build web,
             desktop,APIs and backend systems. Interested in creating efficient, scalable,
-            and secure applications using .NET technologies</p>
+            and secure applications using .NET technologies
             
-            <p>knowledge of Cloud Computing,
+            </p>
+            
+            <p>
+            
+            knowledge of Cloud Computing,
             including understanding of cloud services, storage, and computing resources delivered over the internet. 
             Familiar with concepts such as SaaS, PaaS, and IaaS,and how cloud platforms enable scalable, 
             flexible, and cost-effective solutions for applications and data management.
             Interested in learning how modern cloud technologies
-            support software development and IT infrastructure.</p>
+            support software development and IT infrastructure.
+            
+            </p>
 
             <a href="#" class="btn">Download CV</a>
         </div>
