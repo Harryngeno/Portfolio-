@@ -71,7 +71,7 @@
             color:#0f172a;
         }
 
-        ul
+        ul{
             list-style:none;
         }
 
