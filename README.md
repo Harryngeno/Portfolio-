@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Harry Ngeno Portfolio</title>
+</head>>
 
     <style>
         *{
@@ -102,7 +103,7 @@
             background:#1d4ed8;
         }
     </style>
-</head>
+
 
 <body>
 
@@ -242,7 +243,7 @@
             <h2>Contact Me</h2>
 
             <p>Email: harryngeno@example.com</p>
-            <p>Phone: +254 700 000000</p>
+            <p>Phone: +254103811601</p>
             <p>Location: Nairobi, Kenya</p>
 
             <a href="https://linkedin.com" class="btn">
