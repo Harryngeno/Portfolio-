@@ -280,5 +280,4 @@
         <p>© 2026 Harry Ngeno Portfolio. All Rights Reserved.</p>
     </footer>
 
-</body>
-</html>
+
