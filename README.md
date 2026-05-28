@@ -248,7 +248,7 @@
 
             <p>Email: harryngeno@example.com</p>
             <p>Phone: +254103811601</p>
-            <p>Location: Nairobi, Kenya</p>
+            <p>Location: Berlin , German</p>
 
             <a href="https://linkedin.com" class="btn">
                 Visit My LinkedIn
