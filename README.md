@@ -14,7 +14,7 @@
         }
 
         body{
-            background: blue;
+            background:#f1f5f9;
             color:#333;
         }
 
@@ -60,13 +60,7 @@
             border-radius:10px;
             box-shadow:0 2px 8px rgba(0,0,0,0.1);
         }
-.certication, .certication, .projects, .contact{
-            background:white;
-            margin-bottom:20px;
-            padding:30px;
-            border-radius:10px;
-            box-shadow:0 2px 8px rgba(0,0,0,0.1);
-        }
+
         h2{
             margin-bottom:20px;
             color:#0f172a;
@@ -158,7 +152,7 @@
             
             <p> 
             
-            knowledgeble in Computer
+            knowledgeable in Computer
             Networking and Network Security,
             including understanding of
             network fundamentals, IP addressing,
@@ -207,7 +201,7 @@
                 <li>Full Stack Development</li>
                 <li>Cyber Security Basics</li>
                 <li>Responsive Web Design</li>
-                <li>PHP Basics
+                <li>PHP</>
             </ul>
         </div>
     </section>
@@ -256,8 +250,8 @@
             </a>
         </div>
     </section>
-    <section id="Certification">
-    <div class="Certification">
+    <section id="certification">
+    <div class="certification">
         <h2>Certification</h2>
 
         <ul>
