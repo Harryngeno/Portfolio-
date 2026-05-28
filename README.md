@@ -206,7 +206,7 @@
                 <li>Full Stack Development</li>
                 <li>Cyber Security Basics</li>
                 <li>Responsive Web Design</li>
-                <li>PHP</>
+                <li>PHP</li>
             </ul>
         </div>
     </section>
