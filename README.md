@@ -268,7 +268,7 @@
             <li>Cybersecurity Essential s</li>
             <li>DevNet Associate</li>
             <li>Switching, Routing,and Wireless Essentials</li>
-            <li>Introduction to Networks s</li>
+            <li>Introduction to Networks</li>
             <li>DevNet Associate</li>
             
             
